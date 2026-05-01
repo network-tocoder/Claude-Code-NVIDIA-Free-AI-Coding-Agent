@@ -13,7 +13,7 @@
 
 ## 📺 Watch the Full Video
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://youtube.com/@kskroyal)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5_cZCmrlcow)
 
 > *Built a complete AI Ventures landing page in 6 minutes. 573 lines of code. Zero cost. This repo is the complete setup guide.*
 
